@@ -121,7 +121,6 @@ You can find the structural usage below simulating `Sample Data`.
 ---
 
 ## Test Cases
-
 ### Happy Path (Pytest equivalent simulated)
 
 ```python
