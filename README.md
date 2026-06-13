@@ -11,6 +11,10 @@ TEAM 16
 ## Resumes
 Available in the /resumes folder.
 
+## Demo video link
+Here's the demo video for this case study project, and can be viewed by the below link...
+- https://drive.google.com/file/d/13zFySsNAs983PvtpL0N591hxfkTSgRNJ/view?usp=sharing
+
 ## Category
 Quality assurance
 
