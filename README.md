@@ -2,10 +2,10 @@
 TEAM 16
 
 ## TEAM MEMBERS:
-24U45A4204	CH. LEELA VARDHAN
-23u41a0530	Kurada Haritha
-23U41A4248	PENTAKOTA SUDHA
-24U45A0434	YALUSURI KALYANA RAMUDU
+- 24U45A4204	CH. LEELA VARDHAN
+- 23u41a0530	Kurada Haritha
+- 23U41A4248	PENTAKOTA SUDHA
+- 24U45A0434	YALUSURI KALYANA RAMUDU
 
 ## Resumes
 Available in the /resumes folder.
@@ -211,19 +211,21 @@ This ecosystem successfully implements multiple mandatory AI/Agent capabilities 
 ### Installation Commands
 \`\`\`bash
 # Clone the repository
-git clone https://github.com/CHLEELAVARDHAN/api-test-generator-from-openapi.git
-cd api-test-generator-from-openapi
+- git clone https://github.com/CHLEELAVARDHAN/api-test-generator-from-openapi.git
+- cd api-test-generator-from-openapi
 
 # Create a virtual environment
 python -m venv venv
 source venv/bin/activate  # On Windows use: venv\\Scripts\\activate
 
-# Install dependencies
-pip install -r requirements.txt
-\`\`\`
-
 ## Run Instructions
-Execute the orchestration app directly from the terminal:
-\`\`\`bash
-# Generate data utilizing the default users.yaml schema
-python app.py
+
+1. **Run the React Frontend UI:**
+   ```bash
+   npm run dev
+   ```
+
+2. **Run the Python Agentic Workflow (Streamlit):**
+   ```bash
+   streamlit run app.py
+   ```
