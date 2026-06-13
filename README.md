@@ -102,10 +102,19 @@ The system consists of two main pieces:
 - Initially generated circular imports and variable scoping issues in the self-healing fallback loops. (i.e. Returning immediately inside `for` loops during payload validation logic).
 - Sometimes failed to handle the Vite `esbuild` configuration properly during complex package interactions.
 
-**Best prompts used:**
-- *"Generate COMPLETE WORKING CODE for self_healing.py... deterministic fixes first... If field missing... fallback Call Gemini API."*
-- *"One critical bug still exists... In validator.py, return mismatches appears to be inside the loop..."*
-- *"Add sidebar icon to minimize and maximum the sidebar. Add a README.md... Clean commit history and complete source code..."*
+**Best Prompts Used During Development**
+
+*Prompt 1 – Self-Healing JSON Agent*
+
+*Generate a complete self-healing module that automatically detects missing fields, invalid data types, and malformed JSON payloads. Apply deterministic corrections first, then use Gemini API as a fallback mechanism when automatic correction is not possible.*
+
+*Prompt 2 – Validation Engine Improvement*
+
+*Review the validator module for logical and structural issues. Identify potential bugs in validation loops, type checking, and return statements. Suggest corrections and provide production-ready improvements.*
+
+*Prompt 3 – UI and Project Refinement*
+
+*Improve the Streamlit user interface by enhancing navigation, sidebar usability, dashboard presentation, and overall user experience. Generate a professional README, maintain clean project structure, and ensure repository readiness for evaluation.*
 
 ---
 
