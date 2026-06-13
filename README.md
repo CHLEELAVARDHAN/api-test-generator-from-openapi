@@ -1,6 +1,6 @@
 ## TEAM NAME:
 TEAM 16
-4members
+- 4 team members
 
 ## TEAM MEMBERS:
 - 24U45A4204	CH. LEELA VARDHAN
