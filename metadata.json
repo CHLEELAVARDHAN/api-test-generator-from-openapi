@@ -1,0 +1,8 @@
+{
+  "name": "Generic API Test Generator Blueprint",
+  "description": "A comprehensive blueprint for building a generic AI-powered API test generator that dynamically handles any endpoint with an analytics dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
