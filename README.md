@@ -68,7 +68,7 @@ An AI-Agentic architecture for generating complete, robust API test suites. Feat
 ---
 
 ## Technologies used
-#Core AI & Agent Intelligence
+**Core AI & Agent Intelligence**
 - Google Gemini API (gemini-2.5-flash): Acts as the reasoning engine for generative code tracking, structural test building, and autonomous payload self-healing.
 - Python ast (Abstract Syntax Tree): Used programmatically by the agent to parse and enforce strict syntactic correctness before delivering the LLM-generated Python Pytest code.
 - Agentic Logic & Dashboard (Python)
@@ -79,7 +79,7 @@ Testing Output Stack (Target Code)
 - requests: The standard HTTP library integrated into the generated scripts for endpoint execution.
 
 ## Frontend Workspace (React UI Sandbox)
-React 18 & TypeScript: The underlying framework running the interactive web client workspace.
+- React 18 & TypeScript: The underlying framework running the interactive web client workspace.
 - Vite: The build system managing the React environment compilations.
 - Tailwind CSS: Used for the structural layout, typography, and styling of the application.
 - Lucide React: Powers the vector iconography across the user interface.
