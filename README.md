@@ -15,6 +15,10 @@ Available in the /resumes folder.
 Here's the demo video for this case study project, and can be viewed by the below link...
 - https://drive.google.com/file/d/13zFySsNAs983PvtpL0N591hxfkTSgRNJ/view?usp=sharing
 
+## Presentation
+Here's the presentation for this entire ecosystem...
+- https://drive.google.com/file/d/1LZLAyHIoVK8guAL2OjUPUsX5sXwRqrnT/view?usp=drivesdk
+
 ## Category
 Quality assurance
 
