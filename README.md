@@ -1,5 +1,5 @@
 ## TEAM NAME:
-TEAM 16
+Batch 16
 - 4 team members
 
 ## We the TEAM MEMBERS:
