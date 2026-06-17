@@ -22,7 +22,7 @@ Here's the demo video for this case study project, and can be viewed by the belo
 
 ## Presentation
 Here's the presentation for this entire ecosystem...
-- https://drive.google.com/file/d/1LZLAyHIoVK8guAL2OjUPUsX5sXwRqrnT/view?usp=drivesdk
+- [https://drive.google.com/file/d/1LZLAyHIoVK8guAL2OjUPUsX5sXwRqrnT/view?usp=drivesdk](https://drive.google.com/file/d/16DGutu0P8cwUFQ5m5XzAm5PCCjkpLk2E/view?usp=sharing)
 
 ## Category
 Quality assurance
