@@ -263,6 +263,7 @@ source venv/bin/activate  # On Windows use: venv\\Scripts\\activate
 
 1. **Run the React Frontend UI:**
    ```bash
+   npm install
    npm run dev
    ```
 
