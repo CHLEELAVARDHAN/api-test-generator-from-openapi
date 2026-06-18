@@ -18,7 +18,7 @@ Available in the /resumes folder.
 
 ## Demo video link
 Here's the demo video for this case study project, and can be viewed by the below link...
-- https://drive.google.com/file/d/13zFySsNAs983PvtpL0N591hxfkTSgRNJ/view?usp=sharing
+- https://drive.google.com/file/d/1rvJhIwGayk0msItzF_QzFWS2RrQ15_L5/view?usp=drivesdk
 
 ## Presentation
 Here's the presentation for this entire ecosystem...
