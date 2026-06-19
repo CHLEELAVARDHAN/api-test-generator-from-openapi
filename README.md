@@ -271,3 +271,7 @@ source venv/bin/activate  # On Windows use: venv\\Scripts\\activate
    ```bash
    streamlit run app.py
    ```
+
+## Live deployment
+Here we can view this entire prototype clearly.
+- api-test-generator-from-openapi.vercel.app
