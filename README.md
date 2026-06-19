@@ -274,4 +274,4 @@ source venv/bin/activate  # On Windows use: venv\\Scripts\\activate
 
 ## Live deployment
 Here we can view this entire prototype clearly.
-- api-test-generator-from-openapi.vercel.app
+- https://api-test-generator-from-openapi.vercel.app/
